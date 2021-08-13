@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- [My Data Viz 📈📊📉](https://github.com/alcazar90/TidyTuesday)
 <!--
 **alcazar90/alcazar90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
