@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [JAX](https://jax.readthedocs.io/en/latest/index.html), 
-and I’m studying and contributing to the [toy-ml-pipeline](https://github.com/shreyashankar/toy-ml-pipeline) project.
+- 🌱 I’m currently learning [JAX](https://jax.readthedocs.io/en/latest/index.html).
 - ✍️ I write things on my [blog](https://alkzar.cl/blog/)
-- 📫 How to reach me: look at my website and follow me on [Twitter](https://www.twitter.com/vamos_alcazar).
+- 📫 How to reach me: look at my website and follow me on [Twitter](https://www.twitter.com/vamos_alcazar) and [Linkedin](https://www.linkedin.com/in/alcazar90/).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like data visualization, some of my [work](https://github.com/alcazar90/TidyTuesday) and a [talk](https://github.com/alcazar90/WomenInData-Guatemala2021).
 
